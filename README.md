@@ -1,6 +1,6 @@
 # hello-world
-ilk projem
+First project
 
-Merhaba insanlar.
+Hello people.
 
 Burada Github deneme üzerine bir repository geliştiriyorum. Hepinize kolay gelsin.
